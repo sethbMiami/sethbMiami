@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sethbMiami
-- 👀 I’m interested in learning OOP, data structures, recursion.
 - 🌱 I’m currently learning asp.net core
 - 💞️ I’m looking to collaborate on any beginner project
 - 📫 How to reach me email - bruner.seth@outlook.com
